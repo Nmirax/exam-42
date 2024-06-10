@@ -1,0 +1,45 @@
+
+EXO 1;
+
+fist_world; /
+fizzbuzz; /
+ft_putstr; /
+ft_strcpy; /
+ft_strlen; /
+ft_swap; /
+repeat_alpha; /
+rev_print; /
+
+EXO 2 :
+
+alpha_mirror; pascalrossi /
+ft_strcmp pascal rossi; /
+ft_strcspn; pascal rossi /
+is_power_of_2; pascal rossi /  
+max; pascal rossi /
+print_bits; /
+swap_bits; /
+
+EXO 3;
+
+ft_list_size; /
+lcm; /
+paramsum; /
+pgcd; /
+print_hex.c / 
+ft_range; /
+ft_rrange;
+epur_str Pascal Rossi; /
+expand_str; / 
+
+
+EXO 4;
+
+all pascal rossi 
+
+flood_fill.c /
+fprime.c; /
+ft_list_foreach;/
+ft_list_remove_if;/
+sort_int_tab; /
+sort_list; / 
